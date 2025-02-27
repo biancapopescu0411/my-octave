@@ -16,11 +16,13 @@ My Octave is a C program that allows users to perform various matrix operations 
 - Efficient memory management  
 
 ## Project Structure  
+```
 MyOctave/
 │── my_octave.c # Main program handling user commands
 │── functions.c # Implementation of matrix operations
 │── functions.h # Function prototypes
 │── Makefile # Build automation script
+```
 
 ## Example Commands
 Once the program starts, enter commands to manipulate matrices:
